@@ -7,7 +7,7 @@ import (
 	jwt "github.com/dgrijalva/jwt-go"
 )
 
-func main() {
+func main3() {
 
 	user := "Paulo"
 	email := "pauloperozo@gmail.com"
@@ -32,4 +32,5 @@ func main() {
 
 	fmt.Println(tokenString)
 
+	//Validate()
 }
