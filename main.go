@@ -31,6 +31,4 @@ func main3() {
 	}
 
 	fmt.Println(tokenString)
-
-	//Validate()
 }
